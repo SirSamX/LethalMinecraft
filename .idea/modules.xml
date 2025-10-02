@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LethalMinecraft.iml" filepath="$PROJECT_DIR$/.idea/modules/LethalMinecraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LethalMinecraft.client.iml" filepath="$PROJECT_DIR$/.idea/modules/LethalMinecraft.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LethalMinecraft.main.iml" filepath="$PROJECT_DIR$/.idea/modules/LethalMinecraft.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LethalMinecraft.test.iml" filepath="$PROJECT_DIR$/.idea/modules/LethalMinecraft.test.iml" />
+    </modules>
+  </component>
+</project>
