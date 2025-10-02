@@ -11,13 +11,13 @@
   "environment": "*",
   "entrypoints": {
     "fabric-datagen": [
-      "me.sirsam.lethalminecraft.client.LethalminecraftDataGenerator"
+      "me.sirsam.lethalminecraft.client.LethalMinecraftDataGenerator"
     ],
     "client": [
-      "me.sirsam.lethalminecraft.client.LethalminecraftClient"
+      "me.sirsam.lethalminecraft.client.LethalMinecraftClient"
     ],
     "main": [
-      "me.sirsam.lethalminecraft.Lethalminecraft"
+      "me.sirsam.lethalminecraft.LethalMinecraft"
     ]
   },
   "mixins": [
