@@ -2,3 +2,10 @@
 .kotlin
 build
 run
+.idea/compiler.xml
+.idea/runConfigurations/Data_Generation.xml
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/runConfigurations/Minecraft_Client.xml
+.idea/runConfigurations/Minecraft_Server.xml
+.idea/modules.xml
